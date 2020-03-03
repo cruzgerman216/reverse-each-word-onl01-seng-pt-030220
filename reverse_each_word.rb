@@ -7,4 +7,3 @@ def reverse_each_word(string)
    return str
 end
 
-puts reverse_each_word("test")
